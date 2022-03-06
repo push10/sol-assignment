@@ -1,6 +1,6 @@
 package com.sol.tick.solassignment;
 
-import com.sol.tick.solassignment.service.TickController;
+import com.sol.tick.solassignment.entities.TickStorage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
@@ -13,6 +13,8 @@ public class SolactiveAssignmentApplication {
 
 	public static void main(String[] args) {
 		logger.info("Tick service application starting...");
+		logger.info("Initializing Tick Storage...");
+		TickStorage.getStorageInstance().initStorage();
 		SpringApplication.run(SolactiveAssignmentApplication.class, args);
 		logger.info("Tick service application started...");
 	}
