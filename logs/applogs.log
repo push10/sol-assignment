@@ -1,0 +1,26 @@
+[2022-03-06T13:28:41.041Z] [com.sol.tick.solassignment.SolactiveAssignmentApplication] [main] [15] [INFO ] >>>>> Tick service application starting...
+[2022-03-06T13:28:42.042Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting SolactiveAssignmentApplication using Java 1.8.0_241 on LAPTOP-CDQP669E with PID 9700 (C:\Projects\Spring-boot\assignment\solassignment\target\classes started by Piyush in C:\Projects\Spring-boot\assignment\solassignment)
+[2022-03-06T13:28:42.042Z] [org.springframework.boot.SpringApplication] [main] [640] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2022-03-06T13:28:43.043Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2022-03-06T13:28:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2022-03-06T13:28:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-03-06T13:28:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.58]
+[2022-03-06T13:28:43.043Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-03-06T13:28:43.043Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [290] [INFO ] Root WebApplicationContext: initialization completed in 1377 ms
+[2022-03-06T13:28:44.044Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2022-03-06T13:28:44.044Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2022-03-06T13:28:44.044Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started SolactiveAssignmentApplication in 2.347 seconds (JVM running for 2.989)
+[2022-03-06T13:28:44.044Z] [com.sol.tick.solassignment.SolactiveAssignmentApplication] [main] [17] [INFO ] >>>>> Tick service application started...
+[2022-03-06T13:53:16.016Z] [com.sol.tick.solassignment.SolactiveAssignmentApplication] [main] [15] [INFO ] >>>>> Tick service application starting...
+[2022-03-06T13:53:17.017Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting SolactiveAssignmentApplication using Java 1.8.0_241 on LAPTOP-CDQP669E with PID 4860 (C:\Projects\Spring-boot\assignment\solassignment\target\classes started by Piyush in C:\Projects\Spring-boot\assignment\solassignment)
+[2022-03-06T13:53:17.017Z] [org.springframework.boot.SpringApplication] [main] [640] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2022-03-06T13:53:18.018Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2022-03-06T13:53:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2022-03-06T13:53:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-03-06T13:53:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.58]
+[2022-03-06T13:53:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-03-06T13:53:18.018Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [290] [INFO ] Root WebApplicationContext: initialization completed in 1328 ms
+[2022-03-06T13:53:19.019Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2022-03-06T13:53:19.019Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2022-03-06T13:53:19.019Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started SolactiveAssignmentApplication in 2.236 seconds (JVM running for 2.868)
+[2022-03-06T13:53:19.019Z] [com.sol.tick.solassignment.SolactiveAssignmentApplication] [main] [17] [INFO ] >>>>> Tick service application started...
